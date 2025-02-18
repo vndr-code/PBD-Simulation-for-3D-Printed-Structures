@@ -24,7 +24,7 @@ The simulation is built on the following core ideas:
   The simulation monitors total kinetic energy. If energy spikes above a configurable threshold, it is assumed that the structure has collapsed, and the simulation is frozen.
 
 - **Output:**  
-  Particle positions are recorded over time. The simulation can export an OBJ mesh and generate animated GIFs to visualize the structure and its progressive collapse.
+  Particle positions are recorded over time. The simulation can generate animated GIFs to visualize the structure and its progressive collapse.
 
 ## Project Structure
 
